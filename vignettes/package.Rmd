@@ -26,7 +26,7 @@ An application could live in a subdirectory of inst/, as shown below:
 ├── NAMESPACE
 ├── R
 ├── inst
-│   └── appdir
+│   └── sampleapp
 │       ├── app.R
 │       └── tests/
 │           ├── mytest.R
